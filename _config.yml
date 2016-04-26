@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "TestPage"
+title                    : "Qwlouse"
 title_separator          : "-"
 name                     : "Klaus Greff"
 description              : "Tests for a website and blog"
@@ -62,8 +62,8 @@ google_ad_slot           :
 # Site Author
 author:
   name             : "Klaus Greff"
-  avatar           : "bio-photo.jpg"
-  bio              : "Currently I'm a Ph.D. student at IDSIA under the supervision of Jürgen Schmidhuber."
+  avatar           : "portrait.jpg"
+  bio              : "Yet another Machine-Learning Researcher"
   location         : "Lugano - Switzerland"
   email            : "klaus@idsia.ch"
   uri              :
@@ -73,7 +73,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/Qwlouse"
   google_plus      :
   keybase          :
   instagram        :
