@@ -2,6 +2,8 @@
 permalink: /code/
 layout:    single
 title:     "Code"
+header:
+  image: fractal1q.jpg
 author_profile: false
 ---
 

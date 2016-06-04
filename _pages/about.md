@@ -2,6 +2,8 @@
 permalink: /about/
 layout:    single
 title:     "About"
+header:
+  image: fractal4q.jpg
 author_profile: true
 ---
 

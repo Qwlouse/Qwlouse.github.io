@@ -2,6 +2,8 @@
 permalink: /publications/
 layout:    single
 title:     "Publications"
+header:
+  image: fractal2q.jpg
 author_profile: false
 ---
 
