@@ -147,6 +147,7 @@
   width: 100%;
   height: auto;
   -ms-interpolation-mode: bicubic;
+  border-bottom: solid 1px $border-color;
 }
 
 .page__hero-caption {
