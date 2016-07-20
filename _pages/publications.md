@@ -11,6 +11,14 @@ author_profile: false
 
 ## 2016
 
+* Klaus Greff, Antti Rasmus, Mathias Berglund, Tele Hotloo Hao, Jürgen Schmidhuber, Harri Valpola:  
+  [**Tagger: Deep Unsupervised Perceptual Grouping**](http://arxiv.org/abs/1606.06724)  
+  arXiv preprint arXiv:1606.06724
+
+* Jelena Luketina, Mathias Berglund, Klaus Greff, Tapani Raiko:  
+  [**Scalable Gradient-Based Tuning of Continuous Regularization Hyperparameters**](http://www.jmlr.org/proceedings/papers/v48/luketina16.html)  
+  Proceedings of The 33rd International Conference on Machine Learning, pp. 2952–2960, 2016 
+
 * Klaus Greff, Rupesh K. Srivastava, Jürgen Schmidhuber:  
   [**Binding via Reconstruction Clustering**](http://arxiv.org/abs/1511.06418)  
   In ICLR 2016 [Workshop](http://www.iclr.cc/doku.php?id=iclr2016:main)  
