@@ -9,6 +9,20 @@ author_profile: false
 
 {% include base_path %}
 
+## 2017
+* Klaus Greff, Sjoerd van Steenkiste, Jürgen Schmidhuber:
+  [**Neural Expectation Maximization**](https://arxiv.org/abs/1708.03498)
+  In Advances in Neural Information Processing Systems 30 (NIPS 2017) pre-proceedings.
+  
+* Klaus Greff, Aaron Klein, Martin Chovanec, Frank Hutter, Jürgen Schmidhuber:
+  [**The Sacred Infrastructure for Computational Research**](http://conference.scipy.org/proceedings/scipy2017/klaus_greff.html)
+  In Proceedings of the 15th Python in Science Conference SciPy 2017.
+
+* Klaus Greff, Rupesh K. Srivastava, Jürgen Schmidhuber:
+  [**Highway and residual networks learn unrolled iterative estimation**](https://openreview.net/forum?id=Skn9Shcxe&noteId=Skn9Shcxe)
+  In Proceedings of the International Conference on Learning Representations (ICLR 2017).
+
+
 ## 2016
 
 * Klaus Greff, Antti Rasmus, Mathias Berglund, Tele Hotloo Hao, Jürgen Schmidhuber, Harri Valpola:
